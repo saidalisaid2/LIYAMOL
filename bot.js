@@ -1,7 +1,12 @@
 /* Copyright (C) 2020 Yusuf Usta.
-RECODDED BY AFNANPPLK
-Plk  
-*/
+RECODDED BY SAIDALI  tnx to AFNANPLK 
+
+
+
+#hide bot.js. (%@%#%#%&##&&##&&2&154433272625525252252**#&#&:!:!:!::!₹++₹₹*₹-/₹+₹*₹*#-₹-₹*₹*₹+₹+₹*₹*!+!*₹*₹*₹*#=#=##?/:"$€©^$^£©©£®££\£\\¡®¡;¡©÷£®£^££®®£®£)
+
+
+node.py
 
 const os = require("os");
 const fs = require("fs");
@@ -295,3 +300,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
 }
 
 whatsAsena();
+
+
+*/
+
