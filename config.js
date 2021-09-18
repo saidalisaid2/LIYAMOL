@@ -2,7 +2,7 @@
 re edited by afnan-plk  
 PINKY V2 
 */
-
+/*
 const { Sequelize } = require('sequelize');
 const fs = require('fs');
 if (fs.existsSync('config.env')) require('dotenv').config({ path: './config.env' });
@@ -75,3 +75,4 @@ module.exports = {
     SUPPORT2: "905511384572-1617736751",
     SUPPORT3: "905511384572-1621015274"
 };
+*/
